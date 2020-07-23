@@ -4,6 +4,8 @@
 
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application) [![CocoaPods compatible](https://img.shields.io/cocoapods/v/WKCFansySlider?style=flat)](https://cocoapods.org/pods/WKCFansySlider) [![License: MIT](https://img.shields.io/cocoapods/l/WKCFansySlider?style=flat)](http://opensource.org/licenses/MIT)
 
+使用: 拖进工程或 `pod WKCFansySlider`
+
 WKCFansySlider 适用于对滑动范围要求比较大的情况.
 例如: 
 ` let slider = WKCFansySlider(frame: view.bounds) `
